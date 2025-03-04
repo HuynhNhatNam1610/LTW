@@ -13,7 +13,7 @@ body {
     background-color: #f5f5f5;
 }
 
-.register-container {
+.container {
     width: 100%;
     max-width: 450px;
     padding: 30px;
@@ -22,12 +22,12 @@ body {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
-.register-title {
+.title {
     color: #e11c1c;
     text-align: center;
     font-size: 28px;
     font-weight: bold;
-    margin-bottom: 10px;
+    margin-bottom: 20px;
 }
 
 .description {
@@ -40,6 +40,23 @@ body {
 .description a {
     color: #e11c1c;
     text-decoration: none;
+    cursor: pointer;
+}
+
+.progress-bar {
+    display: flex;
+    height: 4px;
+    margin-bottom: 30px;
+}
+
+.progress-bar-gray {
+    flex: 1;
+    background-color: #e0e0e0;
+}
+
+.progress-bar-red {
+    flex: 1;
+    background-color: #e11c1c;
 }
 
 .input-field {
@@ -52,7 +69,7 @@ body {
     outline: none;
 }
 
-.register-button {
+.button {
     width: 100%;
     padding: 12px;
     background-color: #e11c1c;
@@ -63,6 +80,19 @@ body {
     font-weight: bold;
     cursor: pointer;
     margin-bottom: 15px;
+}
+
+.login-links {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 25px;
+}
+
+.login-links a {
+    color: #333;
+    text-decoration: none;
+    font-size: 14px;
+    cursor: pointer;
 }
 
 .alt-login-text {
@@ -100,4 +130,14 @@ body {
 
 .social-button i {
     margin-right: 10px;
+}
+
+/* Hide forms by default */
+#login-form, #register-form, #forgot-password-form {
+    display: none;
+}
+
+/* Show the active form */
+.active {
+    display: block !important;
 }
