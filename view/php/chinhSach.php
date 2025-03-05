@@ -35,7 +35,7 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="policy-section">
-                    <h2 class="policy-title"><a href="chinhSachBaoMat.html">Chính sách bảo mật</a></h2>
+                    <h2 class="policy-title"><a href="chinhSachBaoMat.php">Chính sách bảo mật</a></h2>
                     <div class="policy-content">
                         <p>Chúng tôi cam kết sẽ bảo mật những thông tin mang tính riêng tư của bạn. Bạn vui lòng đọc bản "Chính sách bảo mật" dưới đây để hiểu hơn những cam kết mà chúng tôi thực hiện, nhằm tôn trọng và bảo vệ quyền lợi của người truy cập.</p>
                         
@@ -54,7 +54,7 @@
                 </div>
 
                 <div class="policy-section">
-                    <h2 class="policy-title"><a href="chinhSachVanChuyen.html">Chính sách vận chuyển</a></h2>
+                    <h2 class="policy-title"><a href="chinhSachVanChuyen.php">Chính sách vận chuyển</a></h2>
                     <div class="policy-content">
                         <p>Web Thể Thao có dịch vụ giao hàng tận nơi trên toàn quốc, áp dụng cho khách mua hàng online và khách mua hàng trực tiếp tại cửa hàng của Web Thể Thao.</p>
                         
@@ -72,7 +72,7 @@
                 </div>
 
                 <div class="policy-section">
-                    <h2 class="policy-title"><a href="chinhSachDoiTra.html">Chính sách đổi trả</a></h2>
+                    <h2 class="policy-title"><a href="chinhSachDoiTra.php">Chính sách đổi trả</a></h2>
                     <div class="policy-content">
                         <p>Web Thể Thao cam kết đảm bảo quyền lợi của khách hàng với chính sách đổi trả sản phẩm rõ ràng và hợp lý.</p>
                         
@@ -90,7 +90,7 @@
                 </div>
 
                 <div class="policy-section">
-                    <h2 class="policy-title"><a href="phuongTThucThanhToan.html">Phương thức thanh toán</a></h2>
+                    <h2 class="policy-title"><a href="phuongThuc.php">Phương thức thanh toán</a></h2>
                     <div class="policy-content">
                         <p>Web Thể Thao cung cấp nhiều phương thức thanh toán an toàn và tiện lợi để khách hàng có thể lựa chọn:</p>
                         
@@ -109,7 +109,7 @@
                 </div>
 
                 <div class="policy-section">
-                    <h2 class="policy-title"><a href="dieuKhoan.html">Điều khoản sử dụng</a></h2>
+                    <h2 class="policy-title"><a href="dieuKhoan.php">Điều khoản sử dụng</a></h2>
                     <div class="policy-content">
                         <p>Điều khoản sử dụng quy định các điều kiện và quy tắc khi bạn truy cập và sử dụng dịch vụ của Web Thể Thao. Vui lòng đọc kỹ để hiểu rõ quyền và nghĩa vụ của mình.</p>
                         
